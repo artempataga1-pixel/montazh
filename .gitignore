@@ -1,0 +1,12 @@
+work/
+*.mp4
+*.mov
+*.MOV
+*.wav
+engine/assets/sfx/*.mp3
+engine/assets/cv/*.task
+engine/assets/cv/*.tflite
+engine/assets/avatar.jpg
+__pycache__/
+.DS_Store
+node_modules/

@@ -1,0 +1,117 @@
+{
+ "figma": {
+  "title": "Figma",
+  "hex": "#F24E1E",
+  "file": "figma.svg"
+ },
+ "claude": {
+  "title": "Claude",
+  "hex": "#D97757",
+  "file": "claude.svg"
+ },
+ "meta": {
+  "title": "Meta",
+  "hex": "#0467DF",
+  "file": "meta.svg"
+ },
+ "github": {
+  "title": "GitHub",
+  "hex": "#181717",
+  "file": "github.svg"
+ },
+ "googlegemini": {
+  "title": "Gemini",
+  "hex": "#8E75B2",
+  "file": "googlegemini.svg"
+ },
+ "zapier": {
+  "title": "Zapier",
+  "hex": "#FF4F00",
+  "file": "zapier.svg"
+ },
+ "instagram": {
+  "title": "Instagram",
+  "hex": "#FF0069",
+  "file": "instagram.svg"
+ },
+ "openai": {
+  "title": "ChatGPT",
+  "hex": "#0B1220",
+  "file": "openai.svg"
+ },
+ "make": {
+  "title": "Make",
+  "hex": "#6D00CC",
+  "file": "make.svg"
+ },
+ "telegram": {
+  "title": "Telegram",
+  "hex": "#26A5E4",
+  "file": "telegram.svg"
+ },
+ "notion": {
+  "title": "Notion",
+  "hex": "#000000",
+  "file": "notion.svg"
+ },
+ "cursor": {
+  "title": "Cursor",
+  "hex": "#000000",
+  "file": "cursor.svg"
+ },
+ "n8n": {
+  "title": "n8n",
+  "hex": "#EA4B71",
+  "file": "n8n.svg"
+ },
+ "google": {
+  "title": "Google",
+  "hex": "#4285F4",
+  "file": "google.svg"
+ },
+ "youtube": {
+  "title": "YouTube",
+  "hex": "#FF0000",
+  "file": "youtube.svg"
+ },
+ "anthropic": {
+  "title": "Anthropic",
+  "hex": "#191919",
+  "file": "anthropic.svg"
+ },
+ "apple": {
+  "title": "Apple",
+  "hex": "#000000",
+  "file": "apple.svg"
+ },
+ "tiktok": {
+  "title": "TikTok",
+  "hex": "#000000",
+  "file": "tiktok.svg"
+ },
+ "perplexity": {
+  "title": "Perplexity",
+  "hex": "#1FB8CD",
+  "file": "perplexity.svg"
+ },
+ "apify": {
+  "title": "Apify",
+  "hex": null,
+  "file": "apify.png"
+ },
+ "xiaomi": {
+  "title": "Xiaomi",
+  "hex": "#FF6900",
+  "file": "xiaomi.svg"
+ },
+ "baidu": {
+  "title": "Baidu",
+  "hex": "#2932E1",
+  "file": "baidu.svg"
+ },
+ "honor": {
+  "title": "Honor",
+  "hex": "#FFFFFF",
+  "file": "honor.svg"
+ }
+}
